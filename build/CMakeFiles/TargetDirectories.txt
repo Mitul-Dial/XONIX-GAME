@@ -1,0 +1,3 @@
+/home/Mitul/Desktop/Project/build/CMakeFiles/xonix.dir
+/home/Mitul/Desktop/Project/build/CMakeFiles/edit_cache.dir
+/home/Mitul/Desktop/Project/build/CMakeFiles/rebuild_cache.dir
